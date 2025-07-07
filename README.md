@@ -1,9 +1,9 @@
 ## Hi there I'm Adhish
 
-🫀 Python Full Stack Intern at MaiTexa Technologies<br/>
-🧠 BCA graduate at Kannur University<br/>
-💪 Learning new concepts, and growing through hands-on experience<br/>
-👩‍🚀 Passionate about building user-focused applications
+ • Python Full Stack Intern at MaiTexa Technologies<br/>
+ • BCA graduate at Kannur University<br/>
+ • Learning new concepts, and growing through hands-on experience<br/>
+ • Passionate about building user-focused applications
 
 
 
