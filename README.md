@@ -3,7 +3,7 @@
 🫀 Python Full Stack Intern at MaiTexa Technologies<br/>
 🧠 BCA graduate at Kannur University<br/>
 💪 Learning new concepts, and growing through hands-on experience<br/>
-👩‍🚀 Passioanate about building user-focused applications
+👩‍🚀 Passionate about building user-focused applications
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
