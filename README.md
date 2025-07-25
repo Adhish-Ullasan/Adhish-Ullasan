@@ -1,6 +1,8 @@
-# 👨‍💻 About Me
+
 
 ```javascript
+// JavaScript Class Version of "About Me"
+
 class AboutMe {
   constructor() {
     this.name = "Adhish";
@@ -20,5 +22,7 @@ class AboutMe {
 
 const me = new AboutMe();
 me.introduce();
+
+
 
 
