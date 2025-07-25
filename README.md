@@ -1,7 +1,6 @@
 
 
 ```javascript
-// JavaScript Class Version of "About Me"
 
 class AboutMe {
   constructor() {
