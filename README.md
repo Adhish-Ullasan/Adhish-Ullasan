@@ -8,7 +8,7 @@ class AboutMe {
     this.pronouns = ["he", "him"];
     this.profession = "Python Full Stack Intern @ Maitexa Technologies";
     this.preferredTechStack = ["HTML", "CSS", "javascript", "react", "python"];
-    this.hasUsed = ["HTML", "CSS", "javascript", "GIT", "Github", "Vercel"];
+    this.hasUsed = ["HTML", "CSS", "javascript", "React", "GIT", "Github", "Vercel"];
   }
 
   introduce() {
